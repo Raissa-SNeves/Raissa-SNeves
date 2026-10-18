@@ -1,8 +1,6 @@
 <p align="center">
-<img width="2048" height="512" alt="Gemini_Generated_Image_2oajvd2oajvd2oaj" src="https://github.com/user-attachments/assets/1b0c7498-9f60-43c7-9c28-cbec5ea877e1" />
+  <img width="2048" height="512" alt="Gemini_Generated_Image_2oajvd2oajvd2oaj" src="https://github.com/user-attachments/assets/1b0c7498-9f60-43c7-9c28-cbec5ea877e1" />
 </p>
-
-
 
 <h3 align="center">
   🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science
@@ -10,18 +8,6 @@
 
 <p align="center">
   <em>Building knowledge. Exploring AI. Creating solutions.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/seu-perfil-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Raissa-SNeves">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:raissaneves.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <hr>
@@ -80,26 +66,17 @@
       <h3>🔥 Wildfire Data Analysis</h3>
       <p>Análise e visualização de dados de focos de queimadas utilizando Python e bibliotecas de análise de dados para mapear padrões ambientais.</p>
       <p><b>Techs:</b> Python, Pandas, Matplotlib, Seaborn</p>
-      <a href="https://github.com/Raissa-SNeves/nome-do-repositorio"><b>View Project →</b></a>
+      <a href="https://github.com/Raissa-SNeves/SEU-REPOSITORIO-AQUI"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Higher Education Data Analysis</h3>
       <p>Análise de dados sobre ingresso e conclusão no ensino superior brasileiro, explorando indicadores demográficos e tendências ao longo do tempo.</p>
       <p><b>Techs:</b> Python, Pandas, Power BI, SQL</p>
-      <a href="https://github.com/Raissa-SNeves/nome-do-repositorio"><b>View Project →</b></a>
+      <a href="https://github.com/Raissa-SNeves/SEU-REPOSITORIO-AQUI"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
 
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
-</picture>
 ---
 
 ## 🎯 Currently Learning | Estudos atuais
@@ -112,6 +89,17 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 
 ## 📫 Connect with me | Entre em contato
 
@@ -120,16 +108,17 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/raissa-sneves">
+  <a href="https://www.linkedin.com/in/raissa-sneves">
     <img src="https://img.shields.io/badge/LinkedIn-Raissa_Neves-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
   <a href="https://github.com/Raissa-SNeves">
     <img src="https://img.shields.io/badge/GitHub-Raissa--SNeves-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="mailto:raissaneves.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <em>Building knowledge. Exploring AI. Creating solutions.</em>
 </p>
-
-
