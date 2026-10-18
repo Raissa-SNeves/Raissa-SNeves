@@ -1,14 +1,8 @@
-
-<!-- Banner tecnológico -->
 <p align="center">
-  <img
-    src="images/ai-banner.png"
-    width="100%"
-    alt="Raissa Neves | Artificial Intelligence"
-  />
+<img width="2048" height="512" alt="Gemini_Generated_Image_2oajvd2oajvd2oaj" src="https://github.com/user-attachments/assets/1b0c7498-9f60-43c7-9c28-cbec5ea877e1" />
 </p>
 
-<h1 align="center">Raissa Neves</h1>
+
 
 <h3 align="center">
   🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science
@@ -97,6 +91,15 @@
   </tr>
 </table>
 
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raissa-SNeves/Raissa-SNeves/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 🎯 Currently Learning | Estudos atuais
